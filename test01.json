@@ -7,11 +7,11 @@
     "friends_news": [
       {
         "friend": "George", "text": "See that cool app!", 
-        {"pkg": "com.appic.coolapp1", "name": "Cool App", "icon": "http://www.some.test/coolpic1.jpg"}
+        "app": {"pkg": "com.appic.coolapp1", "name": "Cool App", "icon": "http://www.some.test/coolpic1.jpg"}
       },
       {
         "friend": "Sonmin", "text": "Don't use diz shit!!", 
-        {"pkg": "com.appic.shitapp1", "name": "Shit App", "icon": "http://www.some.test/shitapp.jpg"}
+        "app": {"pkg": "com.appic.shitapp1", "name": "Shit App", "icon": "http://www.some.test/shitapp.jpg"}
       }
     ]
   }
