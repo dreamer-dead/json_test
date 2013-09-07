@@ -1,0 +1,9 @@
+{
+  "id": "dreamer_dead",
+  "user_name": "Dreamer Dead",
+  "hidden_apps": [],
+  "achievements": [
+    {"id": 1, "name": "First Login", "url": "https://appic.com/achievements/1/icon.png"},
+    {"id": 2, "name": "10 Apps", "url": "https://appic.com/achievements/2/icon.png"}
+  ]
+}
